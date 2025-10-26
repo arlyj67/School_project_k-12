@@ -12,7 +12,7 @@ Developed using **Spring Boot (Kotlin)** for the backend and **Angular** for the
 
 ## 🛠️ Tech Stack
 - **Backend:** Spring Boot 3.4 (Kotlin)
-- **Frontend:** Angular + Tailwind CSS
+- **Frontend:** Angular + Tailwind CSS(not yet)
 - **Database:** SQL Server
 
 ## ⚙️ Setup Instructions
