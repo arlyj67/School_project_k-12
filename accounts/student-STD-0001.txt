@@ -1,0 +1,10 @@
+Welcome to Learnix+
+
+Your account has been created successfully.
+
+Email: juan.delacruz@student.learnixplus.edu.ph
+Password: fa6db884-c31f-4c
+
+Status: PENDING
+
+Please change your password after login.

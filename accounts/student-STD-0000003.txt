@@ -1,0 +1,10 @@
+Welcome to Learnix+
+
+Your account has been created successfully.
+
+Email: maria.lopez@student.learnixplus.edu.ph
+Password: a8e2429a-7949-40
+
+Status: PENDING
+
+Please change your password after login.
